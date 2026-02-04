@@ -1,0 +1,15 @@
+{
+  "news": [
+    {
+      "image": "https://raw.githubusercontent.com/bushidoz/JKgtsv/main/duyuru.png",
+      "url": "https://burning-sky2.com"
+    }
+  ],
+  "links": {
+    "discord": "https://discord.gg/link",
+    "youtube": "https://youtube.com",
+    "web": "https://burning-sky2.com"
+  },
+  "version": "1.0.0",
+  "server_status": "online"
+}
